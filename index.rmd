@@ -4,7 +4,7 @@ author: "Meihong Shi"
 date: "2024-01-30"
 output: html_document
 ---
-
+![](https://www.vetcarepethospital.ca/wp-content/uploads/sites/247/2022/03/petrabbitcare-1-scaled.jpg)
 ```{r setup, include=FALSE}
 knitr::opts_chunk$set(echo = TRUE)
 ```
